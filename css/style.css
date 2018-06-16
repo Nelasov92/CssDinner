@@ -1,0 +1,119 @@
+body {
+	font-family: Trebuchet MS”, Trebuchet, Arial, sans-serif;
+}
+
+p {
+	margin: 0;
+}
+
+
+.class-container {
+	text-align: center;
+
+}
+
+
+.class-header {
+	margin-right:20px;
+	margin-left: 20px;
+	margin-top: 20px;
+	padding-top: 100px;
+	background: #4a4f56;
+	color: #eb7e7f;
+	font: 700 40px Trebuchet MS”, Trebuchet, Arial, sans-serif;
+}
+
+.div + p {
+	font: 700 10px Trebuchet MS”, Trebuchet, Arial, sans-serif;
+}
+
+.main-list {
+	background: #3b3f45;
+	text-align: center;
+	margin-right:20px;
+	margin-left: 20px;
+	padding-top: 20px;
+	font: 700 40px Trebuchet MS”, Trebuchet, Arial, sans-serif;
+}
+
+.main-list__div1:after {
+	content: ""
+}
+
+.main-list__div2:after {
+	content: "10 apple"
+}
+
+.main-list__div3:after {
+	content: "20 oranges";
+}
+
+.main-list__div4:after {
+	content: "13 plates";
+}
+
+.main-list__div5:after {
+	content: "15 bentos";
+}
+
+.main-list__div6:after {
+	content: "1 bottle of Sake^_^";
+}
+.main-list .main-list__div1 {
+	border: 4px solid black;
+	border-right: 50px;
+}
+
+.main-list .main-list__div2 {
+	border: 4px solid black;
+	border-right: 50px;
+}
+
+.main-list .main-list__div3 {
+		border: 4px solid black;
+		border-right: 50px;
+}
+
+.main-list .main-list__div4 {
+		border: 4px solid black;
+		border-right: 50px;
+}
+
+.main-list .main-list__div5 {
+		border: 4px solid black;
+		border-right: 50px;
+}
+
+.main-list .main-list__div6 {
+		border: 4px solid black;
+		border-right: 50px;
+}
+
+
+.main-list {
+	color: #f1dbc5
+}
+
+.main-list__div1 {
+
+}
+
+.main-list__div2 {
+
+}
+
+.main-list__div3 {
+
+}
+
+.main-list__div4 {
+
+}
+
+.main-list__div5 {
+
+}
+
+.main-list__div6 {
+
+}
